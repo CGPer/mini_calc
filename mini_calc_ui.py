@@ -77,4 +77,3 @@ class Ui_Form(object):
         self.equal.setText(_translate("Form", "＝"))
         self.equal.setShortcut(_translate("Form", "Enter"))
         self.clear.setText(_translate("Form", "清除"))
-
